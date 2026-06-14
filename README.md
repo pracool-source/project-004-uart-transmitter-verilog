@@ -1,4 +1,4 @@
-# Project 005: UART Transmitter using Verilog HDL
+# Project 004: UART Transmitter using Verilog HDL
 
 ## Overview
 
